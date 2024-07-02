@@ -2,3 +2,5 @@ Jim, Sales
 Kevin, HR
 Michelle, Finance
 Jack, IT
+Jason, Accounting
+Oscar, Accounting
